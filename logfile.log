@@ -1,0 +1,999 @@
+2021-10-03 02:23:15,681 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 02:23:15,697 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 09:40:40,699 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 09:40:40,717 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 09:42:06,409 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 09:42:06,435 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 09:54:58,813 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 09:54:58,836 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 09:55:07,249 ERROR [Log] homeControl()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#header\-icon\-label"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e1923ab143d996d7641a1e2507a9701
+*** Element info: {Using=id, value=header-icon-label} 
+2021-10-03 09:55:13,607 INFO  [Log] login_control()PASSED 
+2021-10-03 09:55:15,809 ERROR [Log] urun_ara()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".hs\-search\-button"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e1923ab143d996d7641a1e2507a9701
+*** Element info: {Using=class name, value=hs-search-button} 
+2021-10-03 09:55:17,845 ERROR [Log] urun_sec()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-text"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e1923ab143d996d7641a1e2507a9701
+*** Element info: {Using=class name, value=lazy-load-text} 
+2021-10-03 09:55:19,870 ERROR [Log] sepete_ekle()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#lastXItemsMaxCount"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e1923ab143d996d7641a1e2507a9701
+*** Element info: {Using=id, value=lastXItemsMaxCount} 
+2021-10-03 09:55:24,017 ERROR [Log] sepet_control()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".rd\-cart\-item\-price\ mb\-15"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e1923ab143d996d7641a1e2507a9701
+*** Element info: {Using=class name, value=rd-cart-item-price mb-15} 
+2021-10-03 09:55:26,072 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e1923ab143d996d7641a1e2507a9701
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 09:55:30,118 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e1923ab143d996d7641a1e2507a9701
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 09:59:49,763 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 09:59:49,788 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 09:59:56,693 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:00:10,073 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:00:10,096 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:00:16,303 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:00:22,203 INFO  [Log] login_control()PASSED 
+2021-10-03 10:00:24,402 ERROR [Log] urun_ara()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".hs\-search\-button"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62487}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e1b1caa1adfcfa837ba0ed353157f8f9
+*** Element info: {Using=class name, value=hs-search-button} 
+2021-10-03 10:00:26,489 ERROR [Log] urun_sec()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-text"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62487}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e1b1caa1adfcfa837ba0ed353157f8f9
+*** Element info: {Using=class name, value=lazy-load-text} 
+2021-10-03 10:00:28,539 ERROR [Log] sepete_ekle()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#lastXItemsMaxCount"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62487}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e1b1caa1adfcfa837ba0ed353157f8f9
+*** Element info: {Using=id, value=lastXItemsMaxCount} 
+2021-10-03 10:00:37,559 ERROR [Log] sepet_control()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".rd\-cart\-item\-price\ mb\-15"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62487}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e1b1caa1adfcfa837ba0ed353157f8f9
+*** Element info: {Using=class name, value=rd-cart-item-price mb-15} 
+2021-10-03 10:00:39,601 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62487}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e1b1caa1adfcfa837ba0ed353157f8f9
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:00:43,631 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62487}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e1b1caa1adfcfa837ba0ed353157f8f9
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:01:02,846 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:01:02,867 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:01:09,257 ERROR [Log] urun_ara()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".hs\-search\-button"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55838}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3fd92c3ca48b0ec6b61594eb58caf39
+*** Element info: {Using=class name, value=hs-search-button} 
+2021-10-03 10:02:33,263 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:02:33,283 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:02:41,631 INFO  [Log] urun_ara()PASSED 
+2021-10-03 10:02:55,086 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:02:55,106 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:03:01,922 ERROR [Log] urun_sec()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-text"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64460}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: feaf840861ae51d89d4a6d0f5f0dfb56
+*** Element info: {Using=class name, value=lazy-load-text} 
+2021-10-03 10:06:53,347 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:06:53,368 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:07:00,345 ERROR [Log] urun_sec()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-text"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52932}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c4ef8d8950c284d0232012df82703bd
+*** Element info: {Using=class name, value=lazy-load-text} 
+2021-10-03 10:07:23,456 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:07:23,485 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:07:29,946 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:07:36,046 INFO  [Log] login_control()PASSED 
+2021-10-03 10:07:39,658 INFO  [Log] urun_ara()PASSED 
+2021-10-03 10:07:46,400 INFO  [Log] urun_sec()PASSED 
+2021-10-03 10:07:48,481 ERROR [Log] sepete_ekle()FAILED with causeelement not interactable
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62159}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f52f5b428932d8c66eb8015934456762 
+2021-10-03 10:07:52,491 ERROR [Log] sepet_control()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".rd\-cart\-item\-price\ mb\-15"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62159}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f52f5b428932d8c66eb8015934456762
+*** Element info: {Using=class name, value=rd-cart-item-price mb-15} 
+2021-10-03 10:07:54,518 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62159}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f52f5b428932d8c66eb8015934456762
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:07:58,598 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62159}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f52f5b428932d8c66eb8015934456762
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:09:31,690 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:09:31,708 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:09:38,138 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:09:44,148 INFO  [Log] login_control()PASSED 
+2021-10-03 10:09:47,393 INFO  [Log] urun_ara()PASSED 
+2021-10-03 10:09:54,257 INFO  [Log] urun_sec()PASSED 
+2021-10-03 10:09:56,717 INFO  [Log] sepete_ekle()PASSED 
+2021-10-03 10:10:00,666 ERROR [Log] sepet_control()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".rd\-cart\-item\-price\ mb\-15"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55807}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c050c8aa80e2e5046d970ceada817915
+*** Element info: {Using=class name, value=rd-cart-item-price mb-15} 
+2021-10-03 10:10:02,706 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55807}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c050c8aa80e2e5046d970ceada817915
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:10:06,772 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55807}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c050c8aa80e2e5046d970ceada817915
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:11:40,612 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:11:40,632 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:11:47,273 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:11:53,788 INFO  [Log] login_control()PASSED 
+2021-10-03 10:11:57,152 INFO  [Log] urun_ara()PASSED 
+2021-10-03 10:12:04,057 INFO  [Log] urun_sec()PASSED 
+2021-10-03 10:12:06,520 INFO  [Log] sepete_ekle()PASSED 
+2021-10-03 10:12:10,310 ERROR [Log] sepet_control()FAILED with causeSepetteki urun fiyati farkli. ==> expected: <79,99 TL> but was: <119,99 TL> 
+2021-10-03 10:12:12,385 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55516}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a931a85961f02ce1dc6a756463fcd5eb
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:12:16,415 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55516}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a931a85961f02ce1dc6a756463fcd5eb
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:12:37,562 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:12:37,584 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:12:43,605 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:12:49,686 INFO  [Log] login_control()PASSED 
+2021-10-03 10:12:53,027 INFO  [Log] urun_ara()PASSED 
+2021-10-03 10:12:59,857 INFO  [Log] urun_sec()PASSED 
+2021-10-03 10:13:02,343 INFO  [Log] sepete_ekle()PASSED 
+2021-10-03 10:13:06,725 ERROR [Log] sepet_control()FAILED with causeSepetteki urun fiyati farkli. ==> expected: <79,99 TL> but was: <119,99 TL> 
+2021-10-03 10:13:08,786 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64721}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5465d96c9d2a3a6d7b53643d43583f53
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:13:12,828 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64721}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5465d96c9d2a3a6d7b53643d43583f53
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:16:19,205 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:16:19,228 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:16:25,939 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:16:32,039 INFO  [Log] login_control()PASSED 
+2021-10-03 10:16:36,086 INFO  [Log] urun_ara()PASSED 
+2021-10-03 10:16:42,241 ERROR [Log] urun_sec()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#pd_add_to_cart"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56897}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9577b3d62f171fda355ce7a897fed5db
+*** Element info: {Using=id, value=pd_add_to_cart} 
+2021-10-03 10:16:44,316 ERROR [Log] sepete_ekle()FAILED with causeelement not interactable
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56897}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9577b3d62f171fda355ce7a897fed5db 
+2021-10-03 10:16:46,394 ERROR [Log] sepet_control()FAILED with causeelement not interactable
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56897}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9577b3d62f171fda355ce7a897fed5db 
+2021-10-03 10:16:48,422 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56897}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9577b3d62f171fda355ce7a897fed5db
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:16:52,467 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56897}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9577b3d62f171fda355ce7a897fed5db
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:18:56,770 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:18:56,800 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:19:03,514 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:19:07,874 ERROR [Log] login_control()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".header\-icon\-label"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7658f999e5cb1053bcbf13f6e0de8641
+*** Element info: {Using=class name, value=header-icon-label} 
+2021-10-03 10:19:09,919 ERROR [Log] urun_ara()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#search"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7658f999e5cb1053bcbf13f6e0de8641
+*** Element info: {Using=id, value=search} 
+2021-10-03 10:19:11,974 ERROR [Log] urun_sec()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-text"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7658f999e5cb1053bcbf13f6e0de8641
+*** Element info: {Using=class name, value=lazy-load-text} 
+2021-10-03 10:19:14,015 ERROR [Log] sepete_ekle()FAILED with causeno such element: Unable to locate element: {"method":"xpath","selector":"(//a[@key='1'])[1]"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7658f999e5cb1053bcbf13f6e0de8641
+*** Element info: {Using=xpath, value=(//a[@key='1'])[1]} 
+2021-10-03 10:19:16,043 ERROR [Log] sepet_control()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#spanCart"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7658f999e5cb1053bcbf13f6e0de8641
+*** Element info: {Using=id, value=spanCart} 
+2021-10-03 10:19:18,079 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7658f999e5cb1053bcbf13f6e0de8641
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:19:22,119 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7658f999e5cb1053bcbf13f6e0de8641
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:19:37,255 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:19:37,276 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:19:43,661 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:19:48,111 ERROR [Log] login_control()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".header\-icon\-label"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61345}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b6c7eb3587b563365db7750b7db97afa
+*** Element info: {Using=class name, value=header-icon-label} 
+2021-10-03 10:19:50,191 ERROR [Log] urun_ara()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#search"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61345}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b6c7eb3587b563365db7750b7db97afa
+*** Element info: {Using=id, value=search} 
+2021-10-03 10:19:52,230 ERROR [Log] urun_sec()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-text"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61345}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b6c7eb3587b563365db7750b7db97afa
+*** Element info: {Using=class name, value=lazy-load-text} 
+2021-10-03 10:19:54,282 ERROR [Log] sepete_ekle()FAILED with causeno such element: Unable to locate element: {"method":"xpath","selector":"(//a[@key='1'])[1]"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61345}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b6c7eb3587b563365db7750b7db97afa
+*** Element info: {Using=xpath, value=(//a[@key='1'])[1]} 
+2021-10-03 10:19:56,310 ERROR [Log] sepet_control()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#spanCart"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61345}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b6c7eb3587b563365db7750b7db97afa
+*** Element info: {Using=id, value=spanCart} 
+2021-10-03 10:19:58,346 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61345}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b6c7eb3587b563365db7750b7db97afa
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:20:02,377 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61345}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b6c7eb3587b563365db7750b7db97afa
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:22:06,785 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:22:06,811 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:22:16,576 INFO  [Log] login_control()PASSED 
+2021-10-03 10:22:31,337 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:22:31,357 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:22:37,426 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:22:43,425 INFO  [Log] login_control()PASSED 
+2021-10-03 10:22:46,722 INFO  [Log] urun_ara()PASSED 
+2021-10-03 10:22:52,798 ERROR [Log] urun_sec()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#pd_add_to_cart"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58451}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 061cad62f645e22b6cf7d420c7f56d22
+*** Element info: {Using=id, value=pd_add_to_cart} 
+2021-10-03 10:22:54,866 ERROR [Log] sepete_ekle()FAILED with causeelement not interactable
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58451}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 061cad62f645e22b6cf7d420c7f56d22 
+2021-10-03 10:22:56,919 ERROR [Log] sepet_control()FAILED with causeelement not interactable
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58451}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 061cad62f645e22b6cf7d420c7f56d22 
+2021-10-03 10:22:58,949 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58451}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 061cad62f645e22b6cf7d420c7f56d22
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:23:03,007 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58451}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 061cad62f645e22b6cf7d420c7f56d22
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:23:28,674 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:23:28,704 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:23:35,009 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:23:40,911 ERROR [Log] login_control()FAILED with causestale element reference: element is not attached to the page document
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57632}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bf8fe50b3a65e4db3e87118ad62af3f0 
+2021-10-03 10:23:44,522 INFO  [Log] urun_ara()PASSED 
+2021-10-03 10:23:51,091 INFO  [Log] urun_sec()PASSED 
+2021-10-03 10:23:53,631 ERROR [Log] sepete_ekle()FAILED with causeFor input string: "" 
+2021-10-03 10:23:57,593 INFO  [Log] sepet_control()PASSED 
+2021-10-03 10:23:59,623 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57632}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bf8fe50b3a65e4db3e87118ad62af3f0
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:24:03,675 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57632}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bf8fe50b3a65e4db3e87118ad62af3f0
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:26:03,338 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:26:03,366 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:26:09,867 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:26:15,889 INFO  [Log] login_control()PASSED 
+2021-10-03 10:26:19,223 INFO  [Log] urun_ara()PASSED 
+2021-10-03 10:26:26,957 INFO  [Log] urun_sec()PASSED 
+2021-10-03 10:26:29,464 INFO  [Log] sepete_ekle()PASSED 
+2021-10-03 10:26:33,790 ERROR [Log] sepet_control()FAILED with causeSepetteki urun fiyati farkli. ==> expected: <89,99 TL> but was: <79,99 TL> 
+2021-10-03 10:26:35,832 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63043}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a515aec5e8683c3c84483903584aa5e5
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:26:39,856 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63043}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a515aec5e8683c3c84483903584aa5e5
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:51:26,344 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:51:26,359 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:51:32,778 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:51:38,737 INFO  [Log] login_control()PASSED 
+2021-10-03 10:51:42,109 INFO  [Log] urun_ara()PASSED 
+2021-10-03 10:51:49,223 INFO  [Log] urun_sec()PASSED 
+2021-10-03 10:51:51,272 ERROR [Log] sepete_ekle()FAILED with causeclass org.openqa.selenium.By$ByXPath cannot be cast to class org.openqa.selenium.SearchContext (org.openqa.selenium.By$ByXPath and org.openqa.selenium.SearchContext are in unnamed module of loader 'app') 
+2021-10-03 10:51:55,122 ERROR [Log] sepet_control()FAILED with causeSepetteki urun fiyati farkli. ==> expected: <null> but was: <79,99 TL> 
+2021-10-03 10:51:57,187 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59921}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ecf59cfea0be1a36cc1e213641fc5ce
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:52:01,242 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59921}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ecf59cfea0be1a36cc1e213641fc5ce
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:57:44,504 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:57:44,528 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:57:51,150 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:57:58,478 INFO  [Log] login_control()PASSED 
+2021-10-03 10:58:02,595 INFO  [Log] urun_ara()PASSED 
+2021-10-03 10:58:06,835 ERROR [Log] urun_sec()FAILED with causeIndex: 31 
+2021-10-03 10:58:08,876 ERROR [Log] sepete_ekle()FAILED with causeno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57244}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 22c8b938fc14a146706943e63121d017
+*** Element info: {Using=xpath, value=(//a[@key='1'])[1]} 
+2021-10-03 10:58:10,889 ERROR [Log] sepet_control()FAILED with causeno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57244}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 22c8b938fc14a146706943e63121d017
+*** Element info: {Using=id, value=spanCart} 
+2021-10-03 10:58:12,898 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57244}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 22c8b938fc14a146706943e63121d017
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:58:16,917 ERROR [Log] sepet_bosalt()FAILED with causeno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57244}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 22c8b938fc14a146706943e63121d017
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:58:28,935 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:58:28,955 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:58:35,665 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:58:41,749 INFO  [Log] login_control()PASSED 
+2021-10-03 10:58:45,142 INFO  [Log] urun_ara()PASSED 
+2021-10-03 10:58:50,845 ERROR [Log] urun_sec()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#pd_add_to_cart"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62004}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 62fe50f4bfb205f24a45e3dac21b4d29
+*** Element info: {Using=id, value=pd_add_to_cart} 
+2021-10-03 10:58:52,943 ERROR [Log] sepete_ekle()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".sizeHeight\ stlookSize\ \ \ top\ spot"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62004}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 62fe50f4bfb205f24a45e3dac21b4d29
+*** Element info: {Using=class name, value=sizeHeight stlookSize   top spot} 
+2021-10-03 10:58:55,001 ERROR [Log] sepet_control()FAILED with causeelement not interactable
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62004}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 62fe50f4bfb205f24a45e3dac21b4d29 
+2021-10-03 10:58:57,028 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62004}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 62fe50f4bfb205f24a45e3dac21b4d29
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:59:01,055 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62004}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 62fe50f4bfb205f24a45e3dac21b4d29
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 10:59:14,388 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 10:59:14,413 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 10:59:21,228 INFO  [Log] homeControl()PASSED 
+2021-10-03 10:59:27,027 ERROR [Log] login_control()FAILED with causeUye girisi yapilamadi. ==> expected: <Hesabım> but was: <Giriş Yap> 
+2021-10-03 10:59:31,202 INFO  [Log] urun_ara()PASSED 
+2021-10-03 10:59:38,423 INFO  [Log] urun_sec()PASSED 
+2021-10-03 10:59:40,947 ERROR [Log] sepete_ekle()FAILED with causeFor input string: "" 
+2021-10-03 10:59:45,176 INFO  [Log] sepet_control()PASSED 
+2021-10-03 10:59:47,237 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_AddQuantity_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57399}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 29b65eb03eac17f60d778cc0be579fbd
+*** Element info: {Using=id, value=Cart_AddQuantity_676995920} 
+2021-10-03 10:59:51,287 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_676995920"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57399}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 29b65eb03eac17f60d778cc0be579fbd
+*** Element info: {Using=id, value=Cart_ProductDelete_676995920} 
+2021-10-03 11:03:09,668 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 11:03:09,692 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 11:03:16,101 INFO  [Log] homeControl()PASSED 
+2021-10-03 11:03:22,585 ERROR [Log] login_control()FAILED with causeUye girisi yapilamadi. ==> expected: <Hesabım> but was: <Giriş Yap> 
+2021-10-03 11:03:26,098 INFO  [Log] urun_ara()PASSED 
+2021-10-03 11:03:32,210 INFO  [Log] urun_sec()PASSED 
+2021-10-03 11:03:34,654 ERROR [Log] sepete_ekle()FAILED with causeFor input string: "" 
+2021-10-03 11:03:36,699 ERROR [Log] sepet_control()FAILED with causeelement not interactable
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5bd1ccb8ab42d1b39840c218a5f3649f 
+2021-10-03 11:03:38,756 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"a[class='oq-up plus']"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5bd1ccb8ab42d1b39840c218a5f3649f
+*** Element info: {Using=css selector, value=a[class='oq-up plus']} 
+2021-10-03 11:03:42,813 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5bd1ccb8ab42d1b39840c218a5f3649f
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-03 11:06:35,944 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 11:06:35,968 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 11:06:42,670 INFO  [Log] homeControl()PASSED 
+2021-10-03 11:06:48,424 INFO  [Log] login_control()PASSED 
+2021-10-03 11:06:51,741 INFO  [Log] urun_ara()PASSED 
+2021-10-03 11:06:58,988 INFO  [Log] urun_sec()PASSED 
+2021-10-03 11:07:01,511 ERROR [Log] sepete_ekle()FAILED with causeFor input string: "" 
+2021-10-03 11:07:05,547 INFO  [Log] sepet_control()PASSED 
+2021-10-03 11:07:07,770 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".item\-quantity\-input\ ignored"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63395}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 47798c93ac0c0e344ff04c4eae95a135
+*** Element info: {Using=class name, value=item-quantity-input ignored} 
+2021-10-03 11:07:16,045 INFO  [Log] sepet_bosalt()PASSED 
+2021-10-03 12:41:50,832 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 12:41:50,857 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 12:41:57,938 INFO  [Log] homeControl()PASSED 
+2021-10-03 12:42:09,949 INFO  [Log] login_control()PASSED 
+2021-10-03 12:42:13,250 INFO  [Log] urun_ara()PASSED 
+2021-10-03 12:42:20,572 INFO  [Log] urun_sec()PASSED 
+2021-10-03 12:42:23,037 ERROR [Log] sepete_ekle()FAILED with causeFor input string: "" 
+2021-10-03 12:42:27,175 INFO  [Log] sepet_control()PASSED 
+2021-10-03 12:42:29,400 INFO  [Log] sepette_urun_arttirma()PASSED 
+2021-10-03 12:42:37,697 INFO  [Log] sepet_bosalt()PASSED 
+2021-10-03 12:48:12,415 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 12:48:12,431 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 12:48:19,172 ERROR [Log] sepete_ekle()FAILED with causeno such element: Unable to locate element: {"method":"xpath","selector":"(//a[@key='1'])[1]"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ea45e42a29a4fb8279b49e311d63f189
+*** Element info: {Using=xpath, value=(//a[@key='1'])[1]} 
+2021-10-03 12:48:29,041 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 12:48:29,065 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 12:48:36,087 INFO  [Log] homeControl()PASSED 
+2021-10-03 12:48:41,869 INFO  [Log] login_control()PASSED 
+2021-10-03 12:48:45,192 INFO  [Log] urun_ara()PASSED 
+2021-10-03 12:48:52,646 INFO  [Log] urun_sec()PASSED 
+2021-10-03 12:48:55,200 ERROR [Log] sepete_ekle()FAILED with causeFor input string: "" 
+2021-10-03 12:48:59,465 INFO  [Log] sepet_control()PASSED 
+2021-10-03 12:49:01,688 INFO  [Log] sepette_urun_arttirma()PASSED 
+2021-10-03 12:49:09,971 INFO  [Log] sepet_bosalt()PASSED 
+2021-10-03 12:55:28,655 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 12:55:28,680 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 12:55:35,153 INFO  [Log] homeControl()PASSED 
+2021-10-03 12:55:41,093 INFO  [Log] login_control()PASSED 
+2021-10-03 12:55:44,325 INFO  [Log] urun_ara()PASSED 
+2021-10-03 12:55:53,221 INFO  [Log] urun_sec()PASSED 
+2021-10-03 12:55:55,708 ERROR [Log] sepete_ekle()FAILED with causeFor input string: "" 
+2021-10-03 12:56:00,044 INFO  [Log] sepet_control()PASSED 
+2021-10-03 12:56:02,298 INFO  [Log] sepette_urun_arttirma()PASSED 
+2021-10-03 12:56:10,591 INFO  [Log] sepet_bosalt()PASSED 
+2021-10-03 13:02:14,426 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 13:02:14,450 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 13:02:22,309 INFO  [Log] homeControl()PASSED 
+2021-10-03 13:02:28,242 INFO  [Log] login_control()PASSED 
+2021-10-03 13:02:31,596 INFO  [Log] urun_ara()PASSED 
+2021-10-03 13:02:38,559 INFO  [Log] urun_sec()PASSED 
+2021-10-03 13:02:41,060 ERROR [Log] sepete_ekle()FAILED with causeSepete urun eklenemedi. ==> expected: <> but was: <2> 
+2021-10-03 13:02:45,296 INFO  [Log] sepet_control()PASSED 
+2021-10-03 13:02:47,522 INFO  [Log] sepette_urun_arttirma()PASSED 
+2021-10-03 13:02:55,836 INFO  [Log] sepet_bosalt()PASSED 
+2021-10-03 13:03:46,462 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 13:03:46,487 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 13:03:53,010 INFO  [Log] homeControl()PASSED 
+2021-10-03 13:03:59,113 ERROR [Log] login_control()FAILED with causeUye girisi yapilamadi. ==> expected: <Hesabım> but was: <Giriş Yap> 
+2021-10-03 13:04:02,349 INFO  [Log] urun_ara()PASSED 
+2021-10-03 13:04:07,336 ERROR [Log] urun_sec()FAILED with causeno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55497}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b6943613f0346a5debd8d2b84b08f8e
+*** Element info: {Using=id, value=pd_add_to_cart} 
+2021-10-03 13:04:09,372 ERROR [Log] sepete_ekle()FAILED with causeno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55497}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b6943613f0346a5debd8d2b84b08f8e
+*** Element info: {Using=xpath, value=(//a[@key='1'])[1]} 
+2021-10-03 13:04:11,387 ERROR [Log] sepet_control()FAILED with causeno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55497}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b6943613f0346a5debd8d2b84b08f8e
+*** Element info: {Using=id, value=spanCart} 
+2021-10-03 13:04:13,401 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55497}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b6943613f0346a5debd8d2b84b08f8e
+*** Element info: {Using=css selector, value=a[class='oq-up plus']} 
+2021-10-03 13:04:17,467 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 13:04:17,489 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 13:04:24,230 INFO  [Log] homeControl()PASSED 
+2021-10-03 13:04:30,447 INFO  [Log] login_control()PASSED 
+2021-10-03 13:04:33,849 INFO  [Log] urun_ara()PASSED 
+2021-10-03 13:04:40,194 INFO  [Log] urun_sec()PASSED 
+2021-10-03 13:04:42,692 ERROR [Log] sepete_ekle()FAILED with causeSepete urun eklenemedi. ==> expected: <2> but was: <> 
+2021-10-03 13:04:46,816 INFO  [Log] sepet_control()PASSED 
+2021-10-03 13:04:49,090 INFO  [Log] sepette_urun_arttirma()PASSED 
+2021-10-03 13:04:57,378 INFO  [Log] sepet_bosalt()PASSED 
+2021-10-03 13:07:30,772 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 13:07:30,790 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 13:07:37,482 INFO  [Log] homeControl()PASSED 
+2021-10-03 13:07:44,654 INFO  [Log] login_control()PASSED 
+2021-10-03 13:07:49,227 INFO  [Log] urun_ara()PASSED 
+2021-10-03 13:07:55,597 INFO  [Log] urun_sec()PASSED 
+2021-10-03 13:07:58,110 ERROR [Log] sepete_ekle()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".summary\ single\-item"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60511}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8dcfe297da2e524eee9202317e028474
+*** Element info: {Using=class name, value=summary single-item} 
+2021-10-03 13:08:00,144 ERROR [Log] sepet_control()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":".summary\ single\-item"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60511}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8dcfe297da2e524eee9202317e028474
+*** Element info: {Using=class name, value=summary single-item} 
+2021-10-03 13:08:02,169 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"a[class='oq-up plus']"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60511}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8dcfe297da2e524eee9202317e028474
+*** Element info: {Using=css selector, value=a[class='oq-up plus']} 
+2021-10-03 13:08:06,216 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60511}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8dcfe297da2e524eee9202317e028474
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-03 13:10:10,838 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 13:10:10,863 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 13:10:17,543 INFO  [Log] homeControl()PASSED 
+2021-10-03 13:10:24,828 INFO  [Log] login_control()PASSED 
+2021-10-03 13:10:28,190 INFO  [Log] urun_ara()PASSED 
+2021-10-03 13:10:35,417 INFO  [Log] urun_sec()PASSED 
+2021-10-03 13:10:37,937 ERROR [Log] sepete_ekle()FAILED with causeno such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'Sepetinize 1 adet ürün eklenmiştir.')]"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57864}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e1fdd9b81a1d70281fba5ff86ead4de
+*** Element info: {Using=xpath, value=//div[contains(text(),'Sepetinize 1 adet ürün eklenmiştir.')]} 
+2021-10-03 13:10:40,097 ERROR [Log] sepet_control()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"span[class='rd-cart-item-price mb-15']"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57864}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e1fdd9b81a1d70281fba5ff86ead4de
+*** Element info: {Using=css selector, value=span[class='rd-cart-item-price mb-15']} 
+2021-10-03 13:10:42,132 ERROR [Log] sepette_urun_arttirma()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"a[class='oq-up plus']"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57864}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e1fdd9b81a1d70281fba5ff86ead4de
+*** Element info: {Using=css selector, value=a[class='oq-up plus']} 
+2021-10-03 13:10:46,175 ERROR [Log] sepet_bosalt()FAILED with causeno such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELL', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\abdullah\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57864}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e1fdd9b81a1d70281fba5ff86ead4de
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-03 13:16:04,572 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 13:16:04,609 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 13:16:13,929 INFO  [Log] homeControl()PASSED 
+2021-10-03 13:16:20,516 INFO  [Log] login_control()PASSED 
+2021-10-03 13:16:24,941 INFO  [Log] urun_ara()PASSED 
+2021-10-03 13:16:33,005 INFO  [Log] urun_sec()PASSED 
+2021-10-03 13:16:37,503 ERROR [Log] sepete_ekle()FAILED with causeSepete urun eklenemedi. ==> expected: <Sepetinize 1 adet ürün eklenmiştir.> but was: <null> 
+2021-10-03 13:16:42,186 INFO  [Log] sepet_control()PASSED 
+2021-10-03 13:16:44,442 INFO  [Log] sepette_urun_arttirma()PASSED 
+2021-10-03 13:16:52,703 INFO  [Log] sepet_bosalt()PASSED 
+2021-10-03 13:18:01,895 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 13:18:01,935 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 13:18:08,731 INFO  [Log] homeControl()PASSED 
+2021-10-03 13:18:14,583 INFO  [Log] login_control()PASSED 
+2021-10-03 13:18:17,898 INFO  [Log] urun_ara()PASSED 
+2021-10-03 13:18:25,052 INFO  [Log] urun_sec()PASSED 
+2021-10-03 13:18:29,581 ERROR [Log] sepete_ekle()FAILED with causeSepete urun eklenemedi. ==> expected: <1> but was: <null> 
+2021-10-03 13:18:33,726 INFO  [Log] sepet_control()PASSED 
+2021-10-03 13:18:35,981 INFO  [Log] sepette_urun_arttirma()PASSED 
+2021-10-03 13:18:44,308 INFO  [Log] sepet_bosalt()PASSED 
+2021-10-03 13:20:01,270 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 13:20:01,304 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 13:20:08,916 INFO  [Log] homeControl()PASSED 
+2021-10-03 13:20:15,224 INFO  [Log] login_control()PASSED 
+2021-10-03 13:20:18,581 INFO  [Log] urun_ara()PASSED 
+2021-10-03 13:20:24,949 INFO  [Log] urun_sec()PASSED 
+2021-10-03 13:20:29,448 INFO  [Log] sepete_ekle()PASSED 
+2021-10-03 13:20:33,675 INFO  [Log] sepet_control()PASSED 
+2021-10-03 13:20:35,900 INFO  [Log] sepette_urun_arttirma()PASSED 
+2021-10-03 13:20:44,233 INFO  [Log] sepet_bosalt()PASSED 
+2021-10-03 13:21:47,476 INFO  [WebDriverManager] Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94) 
+2021-10-03 13:21:47,497 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\abdullah\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe 
+2021-10-03 13:21:55,542 INFO  [Log] homeControl()PASSED 
+2021-10-03 13:22:01,361 INFO  [Log] login_control()PASSED 
+2021-10-03 13:22:04,550 INFO  [Log] urun_ara()PASSED 
+2021-10-03 13:22:11,936 INFO  [Log] urun_sec()PASSED 
+2021-10-03 13:22:16,440 INFO  [Log] sepete_ekle()PASSED 
+2021-10-03 13:22:20,849 INFO  [Log] sepet_control()PASSED 
+2021-10-03 13:22:23,068 INFO  [Log] sepette_urun_arttirma()PASSED 
+2021-10-03 13:22:31,354 INFO  [Log] sepet_bosalt()PASSED 
