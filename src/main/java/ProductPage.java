@@ -6,8 +6,8 @@ import java.util.List;
 
 public class ProductPage extends BasePage{
 
-    By seeMoreButtonLocator = By.className("lazy-load-text");
-    By productPageLocator = By.id("filter-label");
+    By seeMoreButtonLocator = By.xpath("//div[@class='icon bndl-filters bndl-filters-dims']");
+    By productPageLocator = By.xpath("//label[@id='filter-label']");
     By productNameLocator = By.cssSelector("a[class='a_model_item']");
 
     public ProductPage(WebDriver driver) {

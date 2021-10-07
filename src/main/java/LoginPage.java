@@ -3,7 +3,7 @@ import org.openqa.selenium.WebDriver;
 
 public class LoginPage extends BasePage{
 
-    By LoginPageLocator = By.className("header-icon-label");
+    By LoginPageLocator = By.xpath("//span[contains(text(),'Hesabım')]");
 
 
     By mailLocator = By.id("LoginEmail");

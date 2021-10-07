@@ -5,7 +5,7 @@ import java.util.Stack;
 
 public class HomePage extends BasePage{
 
-    By loginLocator = By.id("header-user-section");
+    By loginLocator = By.xpath("//span[contains(text(),'Giriş Yap')]");
     SearchBox searchBox;
     By productCountInCart = By.cssSelector("span#spanCart");
 
